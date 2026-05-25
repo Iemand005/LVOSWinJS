@@ -110,8 +110,11 @@
     <Content Include="$(MSBuildThisFileDirectory)LVOS\Scripts\sw.js" />
     <Content Include="$(MSBuildThisFileDirectory)LVOS\Scripts\WindowManager.js" />
     <Content Include="$(MSBuildThisFileDirectory)LVOS\Scripts\youtube.js" />
+    <Content Include="$(MSBuildThisFileDirectory)LVOS\Styles\classes.css" />
+    <Content Include="$(MSBuildThisFileDirectory)LVOS\Styles\classes.js" />
     <Content Include="$(MSBuildThisFileDirectory)LVOS\Styles\desktop.css" />
     <Content Include="$(MSBuildThisFileDirectory)LVOS\Styles\general.css" />
+    <Content Include="$(MSBuildThisFileDirectory)LVOS\Styles\js\Interactivity.1.1.js" />
     <Content Include="$(MSBuildThisFileDirectory)LVOS\Styles\Mica.css" />
     <Content Include="$(MSBuildThisFileDirectory)LVOS\Styles\ProvisionedApps.css" />
     <Content Include="$(MSBuildThisFileDirectory)LVOS\Styles\themes.css" />
@@ -130,5 +133,6 @@
     <Folder Include="$(MSBuildThisFileDirectory)LVOS\Applications\RenderDonkey\WebGraphics\" />
     <Folder Include="$(MSBuildThisFileDirectory)LVOS\Applications\StereogramMaker\" />
     <Folder Include="$(MSBuildThisFileDirectory)LVOS\Scripts\WebGraphics\" />
+    <Folder Include="$(MSBuildThisFileDirectory)css\" />
   </ItemGroup>
 </Project>
