@@ -1,0 +1,6 @@
+[submodule "LVOSWinJS/LVOSWinJS.Shared/js/LVOS"]
+	path = LVOSWinJS/LVOSWinJS.Shared/js/LVOS
+	url = https://github.com/Iemand005/LVOS
+[submodule "LVOSWinJS/LVOSWinJS.Shared/LVOS"]
+	path = LVOSWinJS/LVOSWinJS.Shared/LVOS
+	url = https://github.com/Iemand005/LVOS
